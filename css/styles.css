@@ -12,7 +12,7 @@ body {
 /* ----------- HEADER ----------- */
 
 .navbar {
-    background-color: #ffffff;
+    background-color: #FFFFFF;
 }
 
 /* Arreglos generales del Boddy */
@@ -206,4 +206,8 @@ footer {
     background-color: #960707b7;
     justify-content: center;
     align-items: flex-end;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1d039802210ed5a7c2e31cca86868e4d930bb7f7
